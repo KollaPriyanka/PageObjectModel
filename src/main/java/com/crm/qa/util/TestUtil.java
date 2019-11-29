@@ -22,7 +22,7 @@ public class TestUtil extends TestBase {
 	public static long IMPLICIT_WAIT = 20;
 
 	public static String TESTDATA_SHEET_PATH = "/var/lib/jenkins/workspace"
-		+"/try/src/main/java/com/crm/qa/testdata/FreeCrmTestData.xlsx";
+		+"/try/src/main/java/com/crm/qa/FreeCrmTestData.xlsx";
 
 	static Workbook book;
 	static Sheet sheet;
